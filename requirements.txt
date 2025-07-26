@@ -6,6 +6,7 @@ seaborn
 python-dotenv
 groq
 pypdf
+langchain
 langchain-text-splitters
 langchain==0.1.9
 langchain-community==0.0.38
