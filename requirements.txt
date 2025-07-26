@@ -6,3 +6,4 @@ seaborn
 python-dotenv
 groq
 pypdf
+langchain-text-splitters
